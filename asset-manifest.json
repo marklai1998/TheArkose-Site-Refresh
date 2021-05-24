@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9b939cc5.chunk.js",
+    "main.js.map": "/static/js/main.9b939cc5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d1afb53.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d1afb53.js.map",
+    "static/js/2.bf055578.chunk.js": "/static/js/2.bf055578.chunk.js",
+    "static/js/2.bf055578.chunk.js.map": "/static/js/2.bf055578.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.bf055578.chunk.js.LICENSE.txt": "/static/js/2.bf055578.chunk.js.LICENSE.txt",
+    "static/media/ark.a85e7998.png": "/static/media/ark.a85e7998.png",
+    "static/media/chest.233bbd34.png": "/static/media/chest.233bbd34.png",
+    "static/media/conanExiles.c353075a.png": "/static/media/conanExiles.c353075a.png",
+    "static/media/contactBackground.32cff168.png": "/static/media/contactBackground.32cff168.png",
+    "static/media/logo.7e18002c.svg": "/static/media/logo.7e18002c.svg",
+    "static/media/main.8890145e.png": "/static/media/main.8890145e.png",
+    "static/media/minecraft.0ef6d1a2.png": "/static/media/minecraft.0ef6d1a2.png",
+    "static/media/pixark.c2d54058.png": "/static/media/pixark.c2d54058.png",
+    "static/media/player.86e8648c.png": "/static/media/player.86e8648c.png",
+    "static/media/processor.0f81b2a1.svg": "/static/media/processor.0f81b2a1.svg",
+    "static/media/ram.b6c882df.svg": "/static/media/ram.b6c882df.svg",
+    "static/media/react.3db847ae.svg": "/static/media/react.3db847ae.svg",
+    "static/media/server.fcf9becc.svg": "/static/media/server.fcf9becc.svg",
+    "static/media/serverBackground.60dd3040.png": "/static/media/serverBackground.60dd3040.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d1afb53.js",
+    "static/js/2.bf055578.chunk.js",
+    "static/js/main.9b939cc5.chunk.js"
+  ]
+}
